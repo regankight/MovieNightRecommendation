@@ -1,11 +1,8 @@
-# MovieNightRecommendation
- Python-based movie suggestion tool based on user preferences
-# Movie Night Recommender 🎥  
+Overview:
+This project models a basic recommendation engine using Python dictionaries and conditional logic. In business, similar models power lead scoring, customer product recommendations, and dynamic report filtering in BI dashboards.
 
-A Python program that helps users decide what movie to watch based on their preferences!  
-You can choose from genres, movie lengths, and release years—and get a random recommendation if you can't decide!  
+Key Skills Shown:
 
-## Features ✨  
-- Suggests movies based on user preferences (genre, length, new release)  
-- Offers random movie recommendations when no match is found  
-- Easily customizable with more movies or genres  
+- Conditional data filtering
+- Recommendation logic (similar to CRM/RevOps workflows)
+- Python data structures (dictionaries, sets)
